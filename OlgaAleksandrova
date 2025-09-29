@@ -138,8 +138,10 @@
         <main>
             <h1>Давайте знакомиться!</h1>
             
-            <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80" 
-                 alt="Моя фотография" class="profile-img">
+            <img src="images/my-photo.jpg" 
+                 alt="Моя фотография" 
+                 class="profile-img"
+                 style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 4px solid #3498db; display: block; margin: 0 auto 1.5rem;">
             
             <section>
                 <h2>Кто я и откуда</h2>
