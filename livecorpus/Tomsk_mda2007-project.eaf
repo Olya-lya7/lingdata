@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-11-23T20:45:13+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-11-23T21:45:21+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -10501,7 +10501,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a441" ANNOTATION_REF="a403">
-                <ANNOTATION_VALUE>обозначение прродолжения мысли </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>обозначение продолжения мысли </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10656,7 +10656,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1998" ANNOTATION_REF="a1993">
-                <ANNOTATION_VALUE>рассуждение о нескольких вещах</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>сопровождение рассуждения</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10711,7 +10711,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2011" ANNOTATION_REF="a2009">
-                <ANNOTATION_VALUE>подчеркивание эмфазы,  подкрепление речи жестикуляцией</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>подчеркивание эмфазы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10721,7 +10721,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2018" ANNOTATION_REF="a2016">
-                <ANNOTATION_VALUE>подчеркивание эмфазы, подкрепление речи жестикуляцией</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>подчеркивание эмфазы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10731,7 +10731,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2022" ANNOTATION_REF="a2020">
-                <ANNOTATION_VALUE>подчеркивание эмфазы,  подкрепление речи жестикуляцией</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>подчеркивание эмфазы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
